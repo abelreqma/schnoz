@@ -47,3 +47,4 @@ Only Windows and Linux are currently supported (Linux users must comment out lin
 ![ha3w](https://github.com/abelreqma/schnoz/assets/146870782/cb5df739-e857-4941-915d-170ef51fe497)
 
 
+**I am planning on expanding this program**
