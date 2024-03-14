@@ -36,7 +36,8 @@ Only Windows and Linux are currently supported (Linux users must comment out lin
 
 
 ### Examples
-**Active Scanning**: ![as1w](https://github.com/abelreqma/schnoz/assets/146870782/c9a04e19-b850-4a18-8022-e49a348f9a21)![as2w](https://github.com/abelreqma/schnoz/assets/146870782/611ea033-8a12-45e8-bf93-cd9ddffaa681)
+**Active Scanning**:![as1w](https://github.com/abelreqma/schnoz/assets/146870782/aba61386-e11b-414c-9aaa-0f75b48efee3)![as2w](https://github.com/abelreqma/schnoz/assets/146870782/02c9427a-eb89-42a9-b0ee-54a349749581)
+
 
 
 **File Sniffing**:![fs1w](https://github.com/abelreqma/schnoz/assets/146870782/cacf4436-6093-41f6-a705-7784b0b191e0)![fs2w](https://github.com/abelreqma/schnoz/assets/146870782/7435583b-ec6f-4416-9fe4-2ccd1c08364e)
