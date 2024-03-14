@@ -5,7 +5,7 @@ Advanced packet sniffer/analyzer and IDS with several options to conduct network
 
 
 ### Description 
-Schnoz is a tool that I wrote in Python to monitor network traffic and analyze potential threats. I compiled all of the small scripts regarding network analysis to create a wanted to create a multirange tool.
+Schnoz is a tool that I wrote in Python to monitor network traffic and analyze potential threats. I compiled all of the small scripts regarding network analysis to create a multirange tool.
 
 ### Features
 When running the code, there are four options that a user can choose from:
